@@ -67,3 +67,4 @@ Post.hasMany(Comment, {
 });
 
 module.exports = { User, Post, Vote, Comment };
+
